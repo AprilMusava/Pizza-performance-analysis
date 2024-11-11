@@ -6,7 +6,7 @@ Pizza Parlor, a mid-sized player in the food service industry, has been operatio
 
 Targeted SQL queries addressing business questions can be found here [[SQL Queries link](/Pizza%20sales%20queries.sql)].
 
-The full Excel data and the Excel dashboard [link].
+The full Excel data and the Excel dashboard [[Dashboard link](/pizza%20sales%20excel-dashboard.xlsx)].
 
 Data Structure & Initial Checks
 The company’s database contains the following data with a total of 48621 records:
