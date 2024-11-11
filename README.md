@@ -13,8 +13,11 @@ Data Structure & Initial Checks
 The company’s database contains the following data with a total of 48621 records:
 
 Orders: Contains details of customer orders.
+
 Pizzas: Lists the types and sizes of pizzas sold.
+
 Order Details: Provides a breakdown of order ID, order day, price, and order quantity
+
 Dates: Records the date and time of each transaction.
 
 
