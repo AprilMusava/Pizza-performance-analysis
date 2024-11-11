@@ -8,7 +8,7 @@ Targeted SQL queries addressing business questions can be found here [[SQL Queri
 
 The full Excel data and the Excel dashboard [[Dashboard link](/pizza%20sales%20excel-dashboard.xlsx)].
 
-Data Structure & Initial Checks
+# Data Structure & Initial Checks
 
 The company’s database contains the following data with a total of 48621 records:
 
