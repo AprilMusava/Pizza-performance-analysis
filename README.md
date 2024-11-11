@@ -4,8 +4,9 @@
 # Project Background
 Pizza Parlor, a mid-sized player in the food service industry, has been operational since 2008, specializing in a diverse range of pizzas. In 2015, the company processed over 21,000 orders, selling nearly 50,000 pizzas. The business operates on a direct-to-customer model with dine-in, takeout, and delivery options. This analysis evaluates its performance metrics, sales trends, and customer behavior, offering actionable insights for future growth.
 
-Targeted SQL queries addressing business questions can be found here [(https://github.com/AprilMusava/Pizza-performance-analysis/)].
-The full excel data and the excel dashboard [link].
+Targeted SQL queries addressing business questions can be found here [[SQL Queries link](/Pizza%20sales%20queries.sql)].
+
+The full Excel data and the Excel dashboard [link].
 
 Data Structure & Initial Checks
 The company’s database contains the following data with a total of 48621 records:
