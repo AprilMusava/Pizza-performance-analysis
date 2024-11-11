@@ -9,6 +9,7 @@ Targeted SQL queries addressing business questions can be found here [[SQL Queri
 The full Excel data and the Excel dashboard [[Dashboard link](/pizza%20sales%20excel-dashboard.xlsx)].
 
 Data Structure & Initial Checks
+
 The company’s database contains the following data with a total of 48621 records:
 
 Orders: Contains details of customer orders.
@@ -18,7 +19,7 @@ Dates: Records the date and time of each transaction.
 
 
 # Executive Summary
-In 2015, Pizza Parlor achieved total revenue of $817,860.05, with an average order value of $38.31. Fridays and lunchtime hours saw the highest sales, while large and classic pizzas dominated the menu. Key takeaways for stakeholders:
+In 2015, Pizza Parlor achieved a total revenue of $817,860.05, with an average order value of $38.31. Fridays and lunchtime hours saw the highest sales, while large and classic pizzas dominated the menu. Key takeaways for stakeholders:
 
 * Friday’s peak sales opportunities.
 * High demand for large-sized and classic pizzas.
