@@ -4,8 +4,8 @@
 # Project Background
 Pizza Parlor, a mid-sized player in the food service industry, has been operational since 2008, specializing in a diverse range of pizzas. In 2015, the company processed over 21,000 orders, selling nearly 50,000 pizzas. The business operates on a direct-to-customer model with dine-in, takeout, and delivery options. This analysis evaluates its performance metrics, sales trends, and customer behavior, offering actionable insights for future growth.
 
-Targeted SQL queries addressing business questions can be found here [link].
-Explore our interactive Tableau dashboard [link].
+Targeted SQL queries addressing business questions can be found here [(https://github.com/AprilMusava/Pizza-performance-analysis/)].
+The full excel data and the excel dashboard [link].
 
 Data Structure & Initial Checks
 The company’s database contains the following data with a total of 48621 records:
@@ -61,7 +61,8 @@ Main Insight 1: Average order value was $38.31, driven by customers ordering 2-3
 ![KPIs](https://github.com/user-attachments/assets/7cc066ef-3a0c-4119-bd7b-0dc5b10136b4)
 
 
-#Recommendations
+# Recommendations
+
 Based on these insights, the following actions are recommended:
 
 * Promotional Campaigns: Target slow days like Sundays to drive customer traffic.
@@ -73,7 +74,7 @@ Based on these insights, the following actions are recommended:
 * Revamp Underperforming Pizzas: Update recipes or market niche pizzas more aggressively.
 
   
-Assumptions and Caveats
+# Assumptions and Caveats
 
 * Imputed Missing Data: Missing date values were filled using historical averages.
 * Excluded Irregular Records: Non-sensical or incomplete order records were omitted.
